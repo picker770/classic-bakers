@@ -1,1 +1,1 @@
-# initial commit - classic bakers website
+initial commit - classic bakers website
